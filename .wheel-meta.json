@@ -1,0 +1,22 @@
+{
+  "wheel_id": 801,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-155",
+  "project": "fencing-contractors-toowoomba-myths-f24f163d6fb25ee9250b802baa1",
+  "parent_t1_ref": "toowoombafencing-012",
+  "node_role": "buffer",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba myths",
+  "intended_url": "http://fencing-contractors-toowoomba-myths-f24f163d6fb25ee9250b802baa1.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "96f8dd16f29c6b5a",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/fencing-contractors-toowoomba-toowoombafencing-012/",
+      "anchor": "Fencing Contractors Toowoomba: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
